@@ -27,7 +27,7 @@ I'm a passionate Full Stack Developer based in Bhopal. I love Problem Solving an
 
 ## Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/ram-kumar-verma-926a25229/)]
+[[LinkedIn](https://www.linkedin.com/in/ram-kumar-verma-926a25229/)]
 
 
 
