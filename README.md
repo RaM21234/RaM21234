@@ -6,9 +6,8 @@ I'm a passionate Full Stack Developer based in Bhopal. I love Problem Solving an
 
 - 🔭 I’m currently working on CDR enabled Advanced Tracking of Crime using High end Technology(CATCH)
 - 🌱 I’m currently learning Next Js
-- 🤔 I’m looking for help with [Specific Task or Challenge]
-- 💬 Ask me about [Anything You're Knowledgeable About]
-- 📫 How to reach me: ramkumaravs01@gmail.com
+- 💬 Ask me about Data Structures and Algorithm
+-  📫 How to reach me: ramkumaravs01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing video games
 
@@ -21,8 +20,11 @@ I'm a passionate Full Stack Developer based in Bhopal. I love Problem Solving an
 
 ## GitHub Stats
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RaM21234)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaM21234&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaM21234&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaM21234&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaM21234&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaM21234&theme=2077&utcOffset=8)
 
 
 ## Connect with Me
