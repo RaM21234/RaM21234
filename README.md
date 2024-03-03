@@ -21,8 +21,8 @@ I'm a passionate Full Stack Developer based in Bhopal. I love Problem Solving an
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RaM21234)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Connect with Me
